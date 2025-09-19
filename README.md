@@ -24,9 +24,9 @@ Deslogar do aplicativo já disponível
 
 Credenciais para teste
 
-E-mail: admin@email.com
+- E-mail: admin@email.com
 
-Senha: admin123
+- Senha: admin123
 
 Use essas credenciais para acessar rapidamente durante testes e validação.
 
@@ -34,12 +34,12 @@ Use essas credenciais para acessar rapidamente durante testes e validação.
 
 Integrantes
 
-Caique Chagas — RM 551943
+- Caique Chagas — RM 551943
 
-Guilherme Dal Pasolo — RM 98694
+- Guilherme Dal Pasolo — RM 98694
 
-Guilherme Faustino Vargas — RM 98278
+- Guilherme Faustino Vargas — RM 98278
 
-João Lucas Hedi Handa — RM 98458
+- João Lucas Hedi Handa — RM 98458
 
-Ryan Perez Pacheco — RM 98782
+- Ryan Perez Pacheco — RM 98782
