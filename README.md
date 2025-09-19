@@ -1,18 +1,18 @@
-AntiBet 📵🎲
+AntiBet 
 
 Aplicativo mobile para lutar contra os vícios em apostas. O AntiBet oferece uma porta de entrada acolhedora para quem busca apoio especializado, com contatos de profissionais e um formulário para direcionar um atendimento mais detalhado.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-🚀 Funcionalidades
+Funcionalidades:
 
 Login seguro para acesso ao app
 
 Tela inicial com:
 
-Contatos de especialistas e canais de suporte
+- Contatos de especialistas e canais de suporte
 
-Formulário para solicitar ajuda detalhada
+- Formulário para solicitar ajuda detalhada
 
 Perfil (WIP):
 
@@ -20,9 +20,9 @@ Perfil (WIP):
 
 Deslogar do aplicativo já disponível
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-🔐 Credenciais de teste
+Credenciais para teste
 
 E-mail: admin@email.com
 
@@ -30,9 +30,9 @@ Senha: admin123
 
 Use essas credenciais para acessar rapidamente durante testes e validação.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
-👥 Integrantes
+Integrantes
 
 Caique Chagas — RM 551943
 
